@@ -12,5 +12,7 @@
 </head>
 <body>
 <h1>Home</h1>
+<hr>
+<h2>pagina di prova</h2>
 </body>
 </html>
